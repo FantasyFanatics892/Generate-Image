@@ -43,3 +43,8 @@ Proyek ini tidak terlalu serius, dan Anda bebas menggunakannya. Nikmati!
 **P.S.** Saya akan menambahkan file foto hasil dari program ini, jadi Anda bisa melihat betapa mudahnya mendapatkan gambar tanpa usaha. 
 
 Sekian, selamat menikmati! 😴
+
+## Contoh Hasil
+Berikut adalah contoh hasil dari program:
+
+![Contoh Gambar](Result/GenIMG/Realistic_Vision_V5.0.safetensors_[614d1063]/Pretty_Woman,_Realistic,_HD,_8k.jpg)
